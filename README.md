@@ -10,7 +10,7 @@ User gratis hanya bisa menggunakan sc ini sebanyak 2x, dan harus run ulang scnya
 premium user bebas, bisa aktif 24/7 🗿
 
 jangan lupa mampir ke website ku : https://miniwon.online
-
+Premium Gratis 1 Hari, Join : https://chat.whatsapp.com/CtrfJ1eEzVEEf1jXkg3UvJ
 
 Thanks To :
 - Allah Swt
