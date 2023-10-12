@@ -1,7 +1,11 @@
 # Tik-Tok-Bot
 Very Simple Tik tok bot, just run and enjoy the service
+
+
 HANYA WORK DI PYTHON VERSI 3.11.5 ONLY
-cek versi python mu! python --versiom
+
+
+cek versi python mu! python --version
 
 #Tutor install
 <pre>git clone https://github.com/ME1SEGAWON/Tik-Tok-Bot</pre>
